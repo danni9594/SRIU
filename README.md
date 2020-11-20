@@ -1,5 +1,5 @@
 # SRIU
-This is our experimental code for Recommender System Incremental Update via Sample Reweighting (SRIU). 
+This is our experimental code for AAAI-21 Student Abstract Paper "Preventing Overﬁtting via Sample Reweighting for Recommender System Incremental Update (Student Abstract)". 
 
 # Data Preprocessing
 [Tmall Dataset](https://tianchi.aliyun.com/dataset/dataDetail?dataId=42) `data_format1 > user_log_format1.csv`\
